@@ -12,6 +12,5 @@
 
 
 <!---
-grafi24/grafi24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+hallo I am a beginner and would really like to learn. I ask everyone for support and understanding from lack of experienced knowledge. For any blache and meaningful mistakes made great apologies already. A lot of things I will want to be left to me
 --->
